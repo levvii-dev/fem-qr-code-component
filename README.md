@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/qr-code-component-using-vanilla-css-tLF5TMJq_e)
-- Live Site URL: [](https://levvii-dev.github.io/fem-qr-code-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-using-vanilla-css-tLF5TMJq_e](https://www.frontendmentor.io/solutions/qr-code-component-using-vanilla-css-tLF5TMJq_e)
+- Live Site URL: [https://levvii-dev.github.io/fem-qr-code-component](https://levvii-dev.github.io/fem-qr-code-component/)
 
 ## My process
 
